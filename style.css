@@ -1,0 +1,12 @@
+.btn-hero {
+    font-family: var(--ff-primary);
+    text-transform: uppercase;
+    background-color: crimson;
+    color: aliceblue;
+  }
+.box-1{
+    padding: 6px;
+    width: 20px;
+    height: 20px;
+    background-color: aqua;
+}
